@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to handle button click
     function handleClick() {
         const output = document.getElementById('output');
-        output.textContent = 'Button clicked, Sir!';
+        output.textContent = 'Button clicked';
     }
 
     // Add click event listener to the button
